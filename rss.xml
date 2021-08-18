@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dpp="https://www.dpgmedia.cloud/paidrss" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <item>
+      <title>Dit is een test voor rtv kabelkrant</title>
+      <description>Wij zijn bezig om dit verder na te lezen</description>
+      <pubDate>Wed, 18 Aug 2021 08:30:19 GMT</pubDate>
+      <author>Thijs</author>
+    </item>
+  </channel>
+</rss>
